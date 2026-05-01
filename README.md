@@ -21,10 +21,7 @@ python app.py
 
 Then open: http://127.0.0.1:5000/
 
-## 📷 Screenshots
-(Add 1–2 screenshots here later)
-
 ## 🚀 Future Improvements
-- Authentication system  
-- UI improvements  
-- Cloud deployment  
+- Add authentication system  
+- Improve UI/UX  
+- Deploy on cloud  
